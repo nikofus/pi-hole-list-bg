@@ -14,3 +14,6 @@
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
 0.0.0.0 webmail-who-int.000webhostapp.com
+0.0.0.0 etoro.com
+0.0.0.0 go.etoro.com
+0.0.0.0 takeaway.com
