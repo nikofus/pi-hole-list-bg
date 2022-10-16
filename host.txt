@@ -17,3 +17,4 @@
 0.0.0.0 etoro.com
 0.0.0.0 go.etoro.com
 0.0.0.0 takeaway.com
+0.0.0.0 go.indexmasterclass.com
