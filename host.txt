@@ -9,36 +9,11 @@
 #
 # ===============================================================
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
-# Custom host records are listed here.
-
-
-# End of custom host records.
-# Start Niki
-
-#=====================================
-# Title: Hosts contributed by Steven Black
-# 
-
-127.0.0.1 eu1.clevertap-prod.com
-127.0.0.1 wizhumpgyros.com
-127.0.0.1 coccyxwickimp.com
-127.0.0.1 webmail-who-int.000webhostapp.com
-127.0.0.1 etoro.com
-127.0.0.1 go.etoro.com
-127.0.0.1 takeaway.com
-127.0.0.1 go.indexmasterclass.com
+eu1.clevertap-prod.com
+wizhumpgyros.com
+coccyxwickimp.com
+webmail-who-int.000webhostapp.com
+etoro.com
+go.etoro.com
+takeaway.com
+go.indexmasterclass.com
